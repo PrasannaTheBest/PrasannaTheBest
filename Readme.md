@@ -57,23 +57,14 @@
 <br/>
 
 ![Phase 1](https://img.shields.io/badge/PHASE%201-ACTIVE%20NOW-00ff88?style=for-the-badge&labelColor=0d1117)
-
 ### 🧩 Mastering Data Structures & Algorithms in C++
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
-
 ![Phase 2](https://img.shields.io/badge/PHASE%202-UP%20NEXT-f0a500?style=for-the-badge&labelColor=0d1117)
-
 ### ⚛️ Building Production-Ready MERN Applications
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
 ![Phase 3](https://img.shields.io/badge/PHASE%203-COMING%20SOON-445f9d?style=for-the-badge&labelColor=0d1117)
-
 ### 🏗️ Learning System Design & Low Level Design
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
 ![Phase 4](https://img.shields.io/badge/PHASE%204-🏆%20GOAL-ff4444?style=for-the-badge&labelColor=0d1117)
 
 ### 💼 Software Development Engineer
