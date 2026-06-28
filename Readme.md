@@ -22,50 +22,65 @@
 
 ## 👨‍💻 About Me
 
-```cpp
-class PrasannaAgnihotri {
-public:
-    string name        = "Prasanna Agnihotri";
-    string role        = "Aspiring Software Engineer";
-    string university  = "Chandigarh University";
-    string degree      = "B.E. Computer Science Engineering";
+<div align="center">
 
-    vector<string> skills = {
-        "Data Structures & Algorithms (C++)",
-        "Full Stack MERN Development",
-        "System Design & Low Level Design",
-        "Computer Vision (OpenCV + Python)"
-    };
+| | |
+|:---|:---|
+| 🎓 **Degree** | B.E. Computer Science Engineering |
+| 🏫 **University** | Chandigarh University |
+| 💼 **Goal** | Software Development Engineer |
+| 🌍 **Location** | India |
+| ⚡ **Currently** | Mastering DSA in C++ |
+| 📬 **Email** | prasannacr7pa9@gmail.com |
 
-    string currentGoal = "Land a Software Development Engineer Role";
-    bool   learning    = true;
+</div>
 
-    string quote() {
-        return "Every great engineer was once a beginner who refused to quit.";
-    }
-};
-```
+<br/>
 
-> 💡 I'm a CS Engineering student who loves turning ideas into impactful software.  
-> I constantly challenge myself to learn and grow — one project, one problem, one commit at a time.
+<div align="center">
+
+🧠 &nbsp; **Problem Solver** &nbsp;•&nbsp; ⚛️ &nbsp; **MERN Developer** &nbsp;•&nbsp; 🏗️ &nbsp; **System Thinker** &nbsp;•&nbsp; 🚀 &nbsp; **Always Learning**
+
+</div>
+
+<br/>
+
+> *CS Engineering student who loves turning ideas into impactful software.*  
+> *One project. One problem. One commit at a time.*
 
 ---
 
 ## 🚀 My Journey
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  🧩 Phase 1 [ACTIVE]  ──▶  Mastering DSA in C++             │
-│                                                              │
-│  ⚛️  Phase 2           ──▶  Building Production MERN Apps    │
-│                                                              │
-│  🏗️  Phase 3           ──▶  System Design & LLD              │
-│                                                              │
-│  💼 Phase 4  [GOAL]   ──▶  Software Development Engineer     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<br/>
+
+![Phase 1](https://img.shields.io/badge/PHASE%201-ACTIVE%20NOW-00ff88?style=for-the-badge&labelColor=0d1117)
+
+### 🧩 Mastering Data Structures & Algorithms in C++
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
+
+![Phase 2](https://img.shields.io/badge/PHASE%202-UP%20NEXT-f0a500?style=for-the-badge&labelColor=0d1117)
+
+### ⚛️ Building Production-Ready MERN Applications
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
+
+![Phase 3](https://img.shields.io/badge/PHASE%203-COMING%20SOON-445f9d?style=for-the-badge&labelColor=0d1117)
+
+### 🏗️ Learning System Design & Low Level Design
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
+
+![Phase 4](https://img.shields.io/badge/PHASE%204-🏆%20GOAL-ff4444?style=for-the-badge&labelColor=0d1117)
+
+### 💼 Software Development Engineer
+
+<br/>
+
+</div>
 
 ---
 
