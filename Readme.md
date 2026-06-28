@@ -99,20 +99,6 @@ Chandigarh University | DSA Enthusiast | Full Stack Developer
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrasannaTheBest&theme=algolia&no-frame=true&column=7"/>
-
-</p>
-
-<p align="center">
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" width="100%">
-</p>
-
----
-
 # 📜 Certifications
 
 - Cisco — **Introduction to Cybersecurity**
