@@ -1,21 +1,172 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>💻 CS student focused on Data Structures & Algorithms, Competitive Programming, and Full-Stack Development.<br><br>⚡ Currently:<br><br>* Solving DSA problems daily using C++<br>* Building scalable MERN stack projects<br>* Exploring backend systems, databases, and system design<br>* Learning in public through projects and open source<br><br>🛠️ Tech:<br>C++ • JavaScript • React • Node.js • Express • MongoDB • SQL • Git<br><br>📈 Goal:<br>Build impactful software, solve complex problems, and grow into a strong software engineer through consistent execution.<br>
+<h1 align="center">Hi 👋, I'm Prasanna Agnihotri</h1>
 
+<h3 align="center">
+Computer Science Engineering Student <br>
+Chandigarh University | DSA Enthusiast | Full Stack Developer
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prachandx9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasanna-agnihotri/) 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;DSA+%7C+Java+%7C+C%2B%2B+%7C+Python+Learner;Building+Projects+That+Create+Impact"/>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrasannaTheBest&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=PrasannaTheBest&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrasannaTheBest&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" width="100%">
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrasannaTheBest&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 👨‍💻 About Me
+
+- 🎓 B.E. in **Computer Science Engineering**
+- 🏫 **Chandigarh University (2023 – 2027)**
+- 💻 Learning **Data Structures & Algorithms** and **Full Stack Web Development**
+- 🚀 Passionate about AI-powered applications, Web Development and Open Source
+- 📚 Currently preparing for Software Development placements
+- 🎮 Founder & Former Secretary of the Chandigarh University Esports Club
+- 👨‍💼 Currently serving as **TPP Class Representative**
+- 🌱 Always learning something new every day
 
 ---
-[![](https://komarev.com/ghpvc/?username=PrasannaTheBest&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 Academic Support Chatbot
+
+**Tech Stack:** React.js • JavaScript
+
+- Developed a chatbot to help university students access syllabus, notes and project resources.
+- Integrated basic NLP-based FAQ responses.
+- Successfully used by **100+ students** during pilot deployment.
+- Reduced faculty academic query workload by approximately **30%**.
+
+---
+
+## 👁️ Smart Vision Technology Quality Control
+### Flipkart GRID 5.0 Hackathon
+
+**Tech Stack:** Python • OpenCV
+
+- Built a computer vision system for warehouse defect detection.
+- Implemented real-time image classification.
+- Achieved approximately **85% testing accuracy**.
+- Recognized among the **Top 15%** of hackathon submissions.
+
+---
+
+## 🌱 Carbon & Green Credit Generator Calculator
+
+**Tech Stack:** JavaScript • HTML • CSS
+
+- Developed a web application that calculates personal carbon emissions.
+- Generates Green Credits based on eco-friendly activities.
+- Used by **50+ students** across campus.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrasannaTheBest&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaTheBest&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasannaTheBest&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrasannaTheBest&theme=algolia&no-frame=true&column=7"/>
+
+</p>
+
+<p align="center">
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" width="100%">
+</p>
+
+---
+
+# 📜 Certifications
+
+- Cisco — **Introduction to Cybersecurity**
+- NDG Linux — **Linux Basics**
+- Udemy — **The C++20 Masterclass: From Fundamentals to Advanced**
+- Udemy — **Full Stack Web Development with MERN Stack & GenAI 2025 (Ongoing)**
+
+---
+
+# 🏅 Achievements
+
+- 🏆 Top **15%** in **Flipkart GRID 5.0 Hackathon**
+- 🚀 Founded the **Chandigarh University Esports Club**, growing it to **1000+ members**
+- 💳 Achieved **100+ paid memberships** within six months
+- 🎮 Organized **10+ Esports Tournaments** with **500+ participants**
+- 👨‍💼 Serving as **TPP Class Representative** for placement coordination
+
+---
+
+# 🤝 Leadership & Campus Involvement
+
+- 👨‍💼 **TPP Class Representative** — Department of Career Planning & Development *(Present)*
+- 🎮 **Founder & Former Secretary** — Chandigarh University Esports Club
+- 👨‍🎓 **Former Class Representative** — CSE Department
+- 🏏 Member — Chandigarh University Cricket Team
+- 💡 Participant — Google Ideate Ideathon
+- 🏆 Participant — IIT Ropar Advitiya Technical Event
+
+---
+
+# 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/PrasannaTheBest">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/prasanna-agnihotri">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:prasannacr7pa9@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Keep Learning • Keep Building • Keep Growing ⭐
+
+*"Success is built one commit at a time."*
+
+</div>
